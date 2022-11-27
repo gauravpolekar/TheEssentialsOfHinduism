@@ -1,6 +1,8 @@
 # TheEssentialsOfHinduism
 TheEssentialsOfHinduism By Trilochan sastry - Notes
 
+The timeline of scriptures given in the book not seems realistic or not matched with the other references available today.
+
 ## Veda
 
 Each veda has: 

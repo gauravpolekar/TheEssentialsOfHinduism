@@ -80,3 +80,16 @@ Prithvi suktam
 **Aranyakas :** No aranyakas
 **Upnishad :** Prasna, Mundaka, Mandukya
 
+
+
+## Vedic Study is open for all
+
+```
+यथेमां वाचं कल्याणीमावदानि जनेभ्यः।
+
+ब्रह्मराजन्याभ्यां शूद्राय चार्याय च स्वाय चारणाय॥
+```
+
+- Sukla Yajurveda 26.2
+
+May I speak the Sacred word to the masses of the people, to the brahmana, the kshatriya, the vaishya and the shdra, and to our own men and the strengers.

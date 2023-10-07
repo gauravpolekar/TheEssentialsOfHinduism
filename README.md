@@ -117,5 +117,31 @@ Prakriti, Buddhi, Ahankar, Manas (mind), 5 dnyanendriya , 5 karmendriya, 5 tanma
 ```
 
 ## Yoga
+The primary method is mind control through concentration. Union with devine is not possible with an agitated mind.
+
+```
+योगश्चित्तवृत्तिनिरोधः
+
+Yoga chitti vritti nirodha
+
+
+    चित्त - चित्त अर्थात् अन्त:करण (की)
+    वृत्ति - वृत्तियों (का)
+    निरोध: - निरोध (सर्वथा रुक जाना)
+    योग: - योग है ।
+
+```
 ## Purva Mimamsa
+Mimamsa means enquiry into truth.
+Mimamsa accepts all the pramanas by other darshanas.
+
+```
+Pratyaksha (direct), Anuman (inference), Upamana (comparison), Shabda (testimony of the word), Arthapatti (presumption), Anuplabdhi (non-cognition)
+```
+
 ## Uttar Mimamsa
+
+Uttar referes to the later section of vedas - upnishad.
+
+# Brahma sutra
+

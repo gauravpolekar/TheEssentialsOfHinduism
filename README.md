@@ -121,9 +121,7 @@ The primary method is mind control through concentration. Union with devine is n
 
 ```
 योगश्चित्तवृत्तिनिरोधः
-
 Yoga chitti vritti nirodha
-
 
     चित्त - चित्त अर्थात् अन्त:करण (की)
     वृत्ति - वृत्तियों (का)

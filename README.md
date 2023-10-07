@@ -3,7 +3,7 @@ TheEssentialsOfHinduism By Trilochan sastry - Notes
 
 The timeline of scriptures given in the book not seems realistic or not matched with the other references available today.
 
-## Veda
+# Veda
 
 Each veda has: 
 
@@ -93,3 +93,29 @@ Prithvi suktam
 - Sukla Yajurveda 26.2
 
 May I speak the Sacred word to the masses of the people, to the brahmana, the kshatriya, the vaishya and the shdra, and to our own men and the strengers.
+
+
+# Upnishad / Vedant
+
+# Six darshanas
+
+## Nyay
+Nyay or tark shastra has an elaborate system of logic.
+It describe sixteen category of the techniques of reasoning. :
+```
+doubting, arguing constructively oe descructively, specious argumentation, attacking vulnerablepoints in an opponent's argument, using established facts and so on.
+```
+It seek to prove existence of god.- The world must come from somewhere, there is order in universe it is not chaotic.
+
+## Vaiseshikha
+## Sankhya
+Knowledge obtain through the senses is limited and not sufficient. For acquiring knowledge beyond the senses, either revelation or the valid testimony of those who possess that knowledge is required (Guru).
+
+Sankhya describes 24 tattvas / principles. Purush is pure consiousness and causeless it is not counted as tattva.
+```
+Prakriti, Buddhi, Ahankar, Manas (mind), 5 dnyanendriya , 5 karmendriya, 5 tanmatras, panchamahabhuta.
+```
+
+## Yoga
+## Purva Mimamsa
+## Uttar Mimamsa
